@@ -1,6 +1,3 @@
-## Author
-Chris K.
-
 ## Random Number Game
 This is a simple Python game that generates a random number between 0 and 1000, and prompts the user to guess the number. The game provides feedback to the user based on the guess, and ends when the user guesses the correct number, or has made 100 incorrect guesses.
 
@@ -28,3 +25,6 @@ allowed, you can modify the range of the for
 loop. For example, if you want to allow the 
 user 50 attempts, you can use `for guess in 
 range(50):`.
+
+## Author
+Chris K.
